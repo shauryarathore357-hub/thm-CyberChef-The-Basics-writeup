@@ -1,4 +1,4 @@
-# CyberChef: The Basics — TryHackMe Writeup
+# CyberChef: The Basics — TryHackMe Writeup 
 
 ![Room banner](images/01-room-banner.png)
 
